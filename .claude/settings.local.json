@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.netacad.com)",
+      "WebFetch(domain:www.packettracernetwork.com)",
+      "Bash(git add README.md lab1-basic-network/ lab2-cables-devices/ lab3-router-switch/ lab4-vlan/ lab5-wireless/ lab6-nat/ lab7-acl/ lab8-ospf/ lab9-dhcp-security/ lab10-wireshark/ packet-tracer-download.md)",
+      "Bash(git rm -r labs/)",
+      "Bash(git commit:*)",
+      "Bash(git push origin main)"
+    ]
+  }
+}
