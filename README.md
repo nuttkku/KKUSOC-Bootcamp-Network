@@ -1050,6 +1050,8 @@ Cisco Packet Tracer เป็นซอฟต์แวร์จำลองเค
    - รองรับ Windows 10/11, MacOS 12+, Ubuntu 22.04/24.04 LTS
    - ดาวน์โหลดจากเว็บไซต์ Cisco NetAcad เท่านั้น (ห้ามดาวน์โหลดจากแหล่งอื่น)
 
+> 📖 ดูคู่มือแบบละเอียดได้ที่ **[packet-tracer-download.md](packet-tracer-download.md)**
+
 ### ข้อกำหนดการใช้งาน
 
 - ✅ **อนุญาต**: ใช้เพื่อการศึกษา, workshop, การสอนในสถาบันการศึกษา
@@ -1060,16 +1062,16 @@ Cisco Packet Tracer เป็นซอฟต์แวร์จำลองเค
 
 | Lab | หัวข้อ | ระดับความยาก | เวลาโดยประมาณ |
 |-----|--------|-------------|---------------|
-| [Lab 1](labs/lab1-basic-network/README.md) | Basic Network และ IP Configuration | ⭐ ง่าย | 30-45 นาที |
-| [Lab 2](labs/lab2-cables-devices/README.md) | Cable Connection และ Device Setup | ⭐ ง่าย | 30-45 นาที |
-| [Lab 3](labs/lab3-router-switch/README.md) | Router และ Switch Configuration | ⭐⭐ ปานกลาง | 45-60 นาที |
-| [Lab 4](labs/lab4-vlan/README.md) | VLAN Configuration | ⭐⭐⭐ ยาก | 60-90 นาที |
-| [Lab 5](labs/lab5-wireless/README.md) | Wireless Network Setup | ⭐⭐ ปานกลาง | 45-60 นาที |
-| [Lab 6](labs/lab6-nat/README.md) | NAT และ PAT Configuration | ⭐⭐ ปานกลาง | 45-60 นาที |
-| [Lab 7](labs/lab7-acl/README.md) | ACL และ Firewall Rules | ⭐⭐⭐ ยาก | 60-90 นาที |
-| [Lab 8](labs/lab8-ospf/README.md) | OSPF Dynamic Routing | ⭐⭐⭐ ยาก | 60-90 นาที |
-| [Lab 9](labs/lab9-dhcp-security/README.md) | DHCP Snooping และ Network Security | ⭐⭐⭐ ยาก | 60-90 นาที |
-| [Lab 10](labs/lab10-wireshark/README.md) | Wireshark Network Analysis | ⭐⭐ ปานกลาง | 45-60 นาที |
+| [Lab 1](lab1-basic-network/README.md) | Basic Network และ IP Configuration | ⭐ ง่าย | 30-45 นาที |
+| [Lab 2](lab2-cables-devices/README.md) | Cable Connection และ Device Setup | ⭐ ง่าย | 30-45 นาที |
+| [Lab 3](lab3-router-switch/README.md) | Router และ Switch Configuration | ⭐⭐ ปานกลาง | 45-60 นาที |
+| [Lab 4](lab4-vlan/README.md) | VLAN Configuration | ⭐⭐⭐ ยาก | 60-90 นาที |
+| [Lab 5](lab5-wireless/README.md) | Wireless Network Setup | ⭐⭐ ปานกลาง | 45-60 นาที |
+| [Lab 6](lab6-nat/README.md) | NAT และ PAT Configuration | ⭐⭐ ปานกลาง | 45-60 นาที |
+| [Lab 7](lab7-acl/README.md) | ACL และ Firewall Rules | ⭐⭐⭐ ยาก | 60-90 นาที |
+| [Lab 8](lab8-ospf/README.md) | OSPF Dynamic Routing | ⭐⭐⭐ ยาก | 60-90 นาที |
+| [Lab 9](lab9-dhcp-security/README.md) | DHCP Snooping และ Network Security | ⭐⭐⭐ ยาก | 60-90 นาที |
+| [Lab 10](lab10-wireshark/README.md) | Wireshark Network Analysis | ⭐⭐ ปานกลาง | 45-60 นาที |
 
 ### คำแนะนำในการทำ Lab
 
